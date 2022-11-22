@@ -1,2 +1,2 @@
-# zelda-langage-C
-mini video game in CLI with C langage
+# Groupe de doan-b_a 992225
+
